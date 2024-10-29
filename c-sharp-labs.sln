@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-lab3_task1", "c-sharp-lab3_task1\c-sharp-lab3_task1.csproj", "{F5FA1167-B5C6-4DAB-829A-0FE6676B7D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-lab3_task2", "c-sharp-lab3_task2\c-sharp-lab3_task2.csproj", "{9D17D950-0333-49E7-AD50-9C973B5B2A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-lab2", "c-sharp-lab2\c-sharp-lab2.csproj", "{78B9E77E-7E9E-4375-B609-FF30685C8EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FA1167-B5C6-4DAB-829A-0FE6676B7D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FA1167-B5C6-4DAB-829A-0FE6676B7D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FA1167-B5C6-4DAB-829A-0FE6676B7D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FA1167-B5C6-4DAB-829A-0FE6676B7D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D17D950-0333-49E7-AD50-9C973B5B2A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D17D950-0333-49E7-AD50-9C973B5B2A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D17D950-0333-49E7-AD50-9C973B5B2A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D17D950-0333-49E7-AD50-9C973B5B2A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
