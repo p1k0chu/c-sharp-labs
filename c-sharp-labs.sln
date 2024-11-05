@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-lab3_task2", "c-sha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-lab2", "c-sharp-lab2\c-sharp-lab2.csproj", "{78B9E77E-7E9E-4375-B609-FF30685C8EC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-lab4", "c-sharp-lab4\c-sharp-lab4.csproj", "{4519FE7E-3D2A-438E-8D69-CD574C4628AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78B9E77E-7E9E-4375-B609-FF30685C8EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4519FE7E-3D2A-438E-8D69-CD574C4628AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4519FE7E-3D2A-438E-8D69-CD574C4628AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4519FE7E-3D2A-438E-8D69-CD574C4628AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4519FE7E-3D2A-438E-8D69-CD574C4628AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
