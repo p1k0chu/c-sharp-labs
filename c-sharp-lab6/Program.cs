@@ -2,6 +2,8 @@ namespace c_sharp_lab6;
 
 public class Program
 {
+    private static Random _rng = new(DateTime.Now.Millisecond);
+    
     public static void Main()
     {
         Part1();
@@ -11,13 +13,11 @@ public class Program
 
     public static void Part1()
     {
-        var rng = new Random(DateTime.Now.Millisecond);
-
         var students = new[]
         {
-            new Student("Ivan", "Ivanov", rng.Next(16, 40), rng.Next(70, 99) + rng.NextDouble()),
-            new Student("John", "Doe", rng.Next(16, 40), rng.Next(70, 99) + rng.NextDouble()),
-            new Student("Bruce", "Wayne", rng.Next(16, 40), rng.Next(70, 99) + rng.NextDouble())
+            new Student("Ivan", "Ivanov", _rng.Next(16, 40), _rng.NextDouble() * 30 + 70),
+            new Student("John", "Doe", _rng.Next(16, 40), _rng.NextDouble() * 30 + 70),
+            new Student("Bruce", "Wayne", _rng.Next(16, 40), _rng.NextDouble() * 10 + 90)
         };
         
         Console.WriteLine("Учні: ");
